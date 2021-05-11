@@ -1,5 +1,9 @@
 # Redis, Websockets, Node and Vue.js
 
+Using the following tutorial:
+
+https://redislabs.com/blog/how-to-create-notification-services-with-redis-websockets-and-vue-js/
+
 
 
 ## Installation
@@ -9,7 +13,7 @@
 
 ### Run Redis in docker
 ```
-docker run -it --rm --name redis-server -p 6379:6379 redis
+*docker run -it --rm --name redis-server -p 6379:6379 redis*
 ```
 
 ### Run a Node server
