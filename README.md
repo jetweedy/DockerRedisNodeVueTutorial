@@ -13,7 +13,7 @@ https://redislabs.com/blog/how-to-create-notification-services-with-redis-websoc
 
 ### Run Redis in docker
 ```
-**docker run -it --rm --name redis-server -p 6379:6379 redis**
+docker run -it --rm --name redis-server -p 6379:6379 redis
 ```
 
 ### Run a Node server
@@ -24,6 +24,8 @@ mkdir notif-server
 cd notif-server
 npm init -y
 npm install ws redis
+```
+```
 nodemon server.js
 ```
 
@@ -34,6 +36,8 @@ npm install -g @vue/cli
 vue create webclient
 cd webclient
 npm install bootstrap-vue bootstrap
+```
+```
 npm run serve
 ```
 
