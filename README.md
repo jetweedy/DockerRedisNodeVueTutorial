@@ -24,7 +24,7 @@ mkdir notif-server
 cd notif-server
 npm init -y
 npm install ws redis
->> nodemon server.js
+nodemon server.js
 ```
 
 ### Run the front-end client (how over-engineered!)
