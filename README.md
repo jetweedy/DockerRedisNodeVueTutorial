@@ -4,6 +4,9 @@ Using the following tutorial:
 
 https://redislabs.com/blog/how-to-create-notification-services-with-redis-websockets-and-vue-js/
 
+Redis Publish Subscribe Tutorial:
+
+https://www.tutorialspoint.com/redis/redis_pub_sub.htm
 
 
 ## Installation
