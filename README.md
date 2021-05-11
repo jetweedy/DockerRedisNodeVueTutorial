@@ -8,6 +8,10 @@ Redis Publish Subscribe Tutorial:
 
 https://www.tutorialspoint.com/redis/redis_pub_sub.htm
 
+Redis' own Tutorial:
+
+https://redis.io/
+
 
 ## Installation
 
