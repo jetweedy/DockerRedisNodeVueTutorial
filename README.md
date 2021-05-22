@@ -48,6 +48,10 @@ npm install bootstrap-vue bootstrap
 npm run serve
 ```
 
+### Open your a browser and visit http://localhost:8080
+
+Then proceed with the last terminal window step...
+
 ### Manually send some messages from Redis:
 ```
 docker exec -it redis-server redis-cli
